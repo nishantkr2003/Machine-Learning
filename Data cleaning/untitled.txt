@@ -1,0 +1,16 @@
+Data cleaning process or steps---
+
+  1.Handling missing data. ----------- >> 1.delete single row with null value.
+                                          2.delete column with 50% missing values.
+  
+  
+  
+  
+  
+  
+  2.outlier detection and hendling.
+  3.Data scaling and transformatin.
+  4.Encoding Catogrical variables
+  5.Handling Duplicates
+  6.Dealing with inconsistant data
+  
