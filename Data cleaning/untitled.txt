@@ -4,7 +4,12 @@ Data cleaning process or steps---
                                           2.delete column with 50% missing values.
   
   
-  
+                           ----------->>Data filling  {.Numirical data
+                                                       .Catogrical data
+                                                           |>Backword filling
+                                                           forword filling
+                                                           mod filling
+                                                       }
   
   
   
